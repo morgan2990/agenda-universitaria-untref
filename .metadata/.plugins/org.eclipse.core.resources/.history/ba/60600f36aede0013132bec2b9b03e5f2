@@ -1,0 +1,40 @@
+package com.untref.au.agendauniversitaria;
+
+import com.untref.au.agendauniversitaria.interfaces.UsuarioService;
+import com.untref.au.agendauniversitaria.model.Usuario;
+
+public class UsuarioServiceDummy implements UsuarioService{
+	
+	public static boolean isLoggedIn = false;
+	
+	private static UsuarioServiceDummy instance;
+	
+	private UsuarioServiceDummy (){
+	}
+	
+	public static UsuarioServiceDummy getInstance (){
+		if (instance == null){
+			instance = new UsuarioServiceDummy();
+		}
+		return instance;
+	}
+
+	@Override
+	public Usuario login() {
+		return null;
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public boolean isLogggedIn() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public void logout() {
+		// TODO Auto-generated method stub
+		
+	}
+}

@@ -1,0 +1,6 @@
+package com.untref.au.agendauniversitaria;
+
+import com.untref.au.agendauniversitaria.interfaces.LoginService;
+
+public class DummyLoginService implements LoginService{
+}

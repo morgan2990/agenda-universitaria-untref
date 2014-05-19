@@ -1,0 +1,9 @@
+package com.untref.au.agendauniversitaria.model;
+
+public class Materia {
+	
+	private String mCodigo;
+	
+	private String mNombre;
+
+}

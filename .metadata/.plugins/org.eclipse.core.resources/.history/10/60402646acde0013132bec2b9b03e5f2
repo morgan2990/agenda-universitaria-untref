@@ -1,0 +1,17 @@
+package com.untref.au.agendauniversitaria;
+
+import android.app.ListFragment;
+import android.os.Bundle;
+
+public class ListaMaterias extends ListFragment{
+	
+	public static final String Materia = "materia";
+	
+	
+	@Override
+	public void onActivityCreated(Bundle savedInstanceState) {
+		String[] materias = 
+		super.onActivityCreated(savedInstanceState);
+	}	
+	
+}

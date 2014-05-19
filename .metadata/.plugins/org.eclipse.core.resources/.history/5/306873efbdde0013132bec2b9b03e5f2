@@ -1,0 +1,46 @@
+package com.untref.au.agendauniversitaria;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+
+import android.app.ListFragment;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.ArrayAdapter;
+import android.widget.ListView;
+
+import com.untref.au.agendauniversitaria.interfaces.UsuarioService;
+import com.untref.au.agendauniversitaria.model.Materia;
+
+public class ListaMateriasFragment extends ListFragment{
+	
+	public static final String Materia = "materia";
+	
+	UsuarioService usuarioService = UsuarioServiceDummy.getInstance();
+	
+	Map <String, String> materiasMap;
+	
+	@Override
+	public void onActivityCreated(Bundle savedInstanceState) {
+		Materia[] materias = (com.untref.au.agendauniversitaria.model.Materia[]) usuarioService.getUsuario().getmListaMaterias().toArray();
+		materiasMap= new HashMap<String, String> ();
+		List<String> listaNombreMaterias = new ArrayList<String>();
+		List<String> listaIdMaterias = new ArrayList<String>();
+		for (Materia eachMateria:materias){
+			listaNombreMaterias
+		}
+		ArrayAdapter<Materia> adapter = new ArrayAdapter<Materia>(getActivity(), android.R.layout.simple_list_item_1, materias);
+		setListAdapter(adapter);
+		super.onActivityCreated(savedInstanceState);
+	}	
+	
+	@Override
+	public void onListItemClick(ListView l, View v, int position, long id) {
+		String materia = (String)getListAdapter().getItem(position);
+		{
+		}
+		super.onListItemClick(l, v, position, id);
+	}
+	
+}

@@ -1,0 +1,13 @@
+package com.untref.au.agendauniversitaria.model;
+
+public class Usuario {
+	
+	private String mUsuario;
+	
+	private String mContraseña;
+	
+	private String mNombre;
+	
+	private List <Materia> mListaMaterias;
+
+}

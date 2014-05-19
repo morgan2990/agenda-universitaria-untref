@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.app.ListFragment"/>
+<fullyQualifiedTypeName name="com.untref.au.agendauniversitaria.UsuarioServiceDummy"/>
+<fullyQualifiedTypeName name="com.untref.au.agendauniversitaria.model.Usuario"/>
+<fullyQualifiedTypeName name="com.untref.au.agendauniversitaria.model.Materia"/>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="android.R.id"/>
+<fullyQualifiedTypeName name="android.R.layout"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="com.untref.au.agendauniversitaria.ListaMateriasFragment"/>
+</qualifiedTypeNameHistroy>

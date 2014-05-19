@@ -1,0 +1,10 @@
+package com.untref.au.agendauniversitaria.model;
+
+public class Documento {
+	
+	private String mCodigo;
+	private String mNombre;
+	private String mLink;
+	private Materia mMateria;
+
+}

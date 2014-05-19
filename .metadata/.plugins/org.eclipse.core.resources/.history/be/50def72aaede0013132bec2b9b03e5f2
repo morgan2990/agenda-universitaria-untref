@@ -1,0 +1,21 @@
+package com.untref.au.agendauniversitaria;
+
+import android.app.ListFragment;
+import android.os.Bundle;
+
+import com.untref.au.agendauniversitaria.interfaces.UsuarioService;
+
+public class ListaMateriasFragment extends ListFragment{
+	
+	public static final String Materia = "materia";
+	
+	UsuarioService usuarioService = UsuarioServiceDummy.getInstance();
+	
+	
+	@Override
+	public void onActivityCreated(Bundle savedInstanceState) {
+//		String[] materias = 
+		super.onActivityCreated(savedInstanceState);
+	}	
+	
+}

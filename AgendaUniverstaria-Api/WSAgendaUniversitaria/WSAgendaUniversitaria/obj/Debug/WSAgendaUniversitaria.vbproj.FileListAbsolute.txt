@@ -1,0 +1,38 @@
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\WSAgendaUniversitaria.dll
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\WSAgendaUniversitaria.pdb
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\WSAgendaUniversitaria.xml
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\ClasesAgendaUniversitaria.dll
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\ClasesAgendaUniversitaria.pdb
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\ClasesAgendaUniversitaria.xml
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\WSAgendaUniversitaria.Resources.resources
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\WSAgendaUniversitaria.vbproj.GenerateResource.Cache
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\WSAgendaUniversitaria.dll
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\WSAgendaUniversitaria.xml
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\WSAgendaUniversitaria.pdb
+C:\Users\lenguajes4\Desktop\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\WSAgendaUniversitaria.dll
+C:\Users\lenguajes4\Desktop\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\WSAgendaUniversitaria.pdb
+C:\Users\lenguajes4\Desktop\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\WSAgendaUniversitaria.xml
+C:\Users\lenguajes4\Desktop\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\ClasesAgendaUniversitaria.dll
+C:\Users\lenguajes4\Desktop\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\ClasesAgendaUniversitaria.pdb
+C:\Users\lenguajes4\Desktop\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\ClasesAgendaUniversitaria.xml
+C:\Users\lenguajes4\Desktop\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenguajes4\Desktop\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\WSAgendaUniversitaria.Resources.resources
+C:\Users\lenguajes4\Desktop\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\lenguajes4\Desktop\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\lenguajes4\Desktop\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\WSAgendaUniversitaria.dll
+C:\Users\lenguajes4\Desktop\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\WSAgendaUniversitaria.xml
+C:\Users\lenguajes4\Desktop\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\WSAgendaUniversitaria.pdb
+C:\Users\lenguajes4\Desktop\Fuentes\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\WSAgendaUniversitaria.dll
+C:\Users\lenguajes4\Desktop\Fuentes\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\WSAgendaUniversitaria.pdb
+C:\Users\lenguajes4\Desktop\Fuentes\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\WSAgendaUniversitaria.xml
+C:\Users\lenguajes4\Desktop\Fuentes\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\ClasesAgendaUniversitaria.dll
+C:\Users\lenguajes4\Desktop\Fuentes\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\ClasesAgendaUniversitaria.pdb
+C:\Users\lenguajes4\Desktop\Fuentes\WSAgendaUniversitaria\WSAgendaUniversitaria\bin\ClasesAgendaUniversitaria.xml
+C:\Users\lenguajes4\Desktop\Fuentes\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\lenguajes4\Desktop\Fuentes\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\WSAgendaUniversitaria.Resources.resources
+C:\Users\lenguajes4\Desktop\Fuentes\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\lenguajes4\Desktop\Fuentes\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\lenguajes4\Desktop\Fuentes\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\WSAgendaUniversitaria.dll
+C:\Users\lenguajes4\Desktop\Fuentes\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\WSAgendaUniversitaria.xml
+C:\Users\lenguajes4\Desktop\Fuentes\WSAgendaUniversitaria\WSAgendaUniversitaria\obj\Debug\WSAgendaUniversitaria.pdb

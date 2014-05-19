@@ -1,0 +1,19 @@
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\bin\Release\ClasesAgendaUniversitaria.dll
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\bin\Release\ClasesAgendaUniversitaria.pdb
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\bin\Release\ClasesAgendaUniversitaria.xml
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\obj\Release\ClasesAgendaUniversitaria.Resources.resources
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\obj\Release\ClasesAgendaUniversitaria.vbproj.GenerateResource.Cache
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\obj\Release\ClasesAgendaUniversitaria.dll
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\obj\Release\ClasesAgendaUniversitaria.xml
+C:\Users\jprosli\Documents\Visual Studio 2008\Projects\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\obj\Release\ClasesAgendaUniversitaria.pdb
+C:\Users\lenguajes4\Desktop\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\bin\Release\ClasesAgendaUniversitaria.dll
+C:\Users\lenguajes4\Desktop\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\bin\Release\ClasesAgendaUniversitaria.pdb
+C:\Users\lenguajes4\Desktop\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\bin\Release\ClasesAgendaUniversitaria.xml
+C:\Users\lenguajes4\Desktop\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lenguajes4\Desktop\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\obj\Release\ClasesAgendaUniversitaria.Resources.resources
+C:\Users\lenguajes4\Desktop\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\obj\Release\GenerateResource.read.1.tlog
+C:\Users\lenguajes4\Desktop\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\obj\Release\GenerateResource.write.1.tlog
+C:\Users\lenguajes4\Desktop\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\obj\Release\ClasesAgendaUniversitaria.dll
+C:\Users\lenguajes4\Desktop\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\obj\Release\ClasesAgendaUniversitaria.xml
+C:\Users\lenguajes4\Desktop\ClasesAgendaUniversitaria\ClasesAgendaUniversitaria\obj\Release\ClasesAgendaUniversitaria.pdb

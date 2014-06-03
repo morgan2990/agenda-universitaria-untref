@@ -8,7 +8,8 @@ Imports ClasesAgendaUniversitaria
 <ToolboxItem(False)> _
 Public Class ServicioAgendaUniversitaria
     Inherits System.Web.Services.WebService
-
+    'probandoooo
+    'prueba2
     <WebMethod()> _
     Public Function loguear(ByVal pUsuario As String, ByVal pPassword As String) As Usuario
         Dim dt As DataTable
